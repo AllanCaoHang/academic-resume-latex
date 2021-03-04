@@ -1,5 +1,5 @@
-# Cao Hang's Academic Resume Latex Template (Forked from [Here](https://freeicons.io).Thanks a lot)
-
+# Cao Hang's Academic Resume Latex Template 
+  (Forked from [HERE](https://github.com/rancheng/academic-resume-latex).Thanks a lot)
 This is a template for academic resume use, offered QR code and some svg graphes, print friendly, hope it helps.
 
 ---
