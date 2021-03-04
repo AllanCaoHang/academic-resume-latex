@@ -1,4 +1,4 @@
-# Ran Cheng's Academic Resume Latex Template
+# Cao Hang's Academic Resume Latex Template (Forked from [Here](https://freeicons.io).Thanks a lot)
 
 This is a template for academic resume use, offered QR code and some svg graphes, print friendly, hope it helps.
 
